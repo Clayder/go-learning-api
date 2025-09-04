@@ -21,13 +21,10 @@
 .vscode/
 *.code-workspace
 
-# Módulos e dependências
 vendor/
 
-# Variáveis de ambiente e configs locais
 .env
 *.local
 *.envrc
 
-# Cache do Go
 go.sum
